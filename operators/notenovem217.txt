@@ -1,0 +1,16 @@
+operators?
+
+
+to perform some opertions
+
+
+1)Arithmetic operators(+,-,*,/,%,**,//)
+
+2)LogicalOperators(&,|,^)
+
+
+3)RelationalOperators(>,<,>=,<=,==)
+
+
+
+4)CompoundAssignment(+=,-=,*= etc)
