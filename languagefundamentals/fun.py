@@ -24,4 +24,4 @@
 
 
 
-print("inside fun moduke")
+print("inside fun modukegi")
