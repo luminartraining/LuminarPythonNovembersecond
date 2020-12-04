@@ -1,0 +1,12 @@
+#lst    define?     duplicates allowed? inserttion order preserved? is it possible to update?
+#list    []              yes                 yes                           yes
+
+#tuple    ()             yes                 yes                           no
+
+#set      set()           no                  no                           yes
+
+#dictionary {}           duplicate            yes
+                            keys NA
+                            and
+                            duplicate valued
+                            allowed
