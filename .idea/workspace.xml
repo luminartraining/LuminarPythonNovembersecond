@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf26d975-d037-46ea-92ff-d4d0b4bb6fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/different_functions/fun-first.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythoncollections/listprograms/leastpositive.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoncollections/listprograms/leastpositive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/different_functions/emp_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/different_functions/emp_fun.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +50,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/File_input_oupt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyTestProject/logicplumproject" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LogicPlumQuestions" />
       <recent name="$PROJECT_DIR$/File_input_oupt" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fun-first">
-    <configuration name="covid_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.covid_arg_method">
+    <configuration name="covid_arg_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lyuminarpythonNovsecond" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_input_oupt/covid_analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_input_oupt/covid_arg_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cricket_dat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="emp_fun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lyuminarpythonNovsecond" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_input_oupt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/different_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_input_oupt/cricket_dat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/different_functions/emp_fun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="movie_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nesteddict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lyuminarpythonNovsecond" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_input_oupt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncollections/my_dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_input_oupt/movie_analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncollections/my_dictionary/nesteddict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_fail_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="questions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lyuminarpythonNovsecond" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_input_oupt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogicPlumQuestions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_input_oupt/print_fail_program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogicPlumQuestions/questions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.covid_arg_method" />
+        <item itemvalue="Python.nesteddict" />
+        <item itemvalue="Python.questions" />
+        <item itemvalue="Python.emp_fun" />
         <item itemvalue="Python.fun-first" />
-        <item itemvalue="Python.movie_analysis" />
-        <item itemvalue="Python.covid_analysis" />
-        <item itemvalue="Python.cricket_dat" />
-        <item itemvalue="Python.print_fail_program" />
       </list>
     </recent_temporary>
   </component>

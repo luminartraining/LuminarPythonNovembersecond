@@ -27,7 +27,6 @@ for k,v in employee.items():
     print(k,v)
 
 
-
 def print_employee_data(**kwargs):
     print(kwargs)
     if "id" in kwargs:
@@ -36,8 +35,27 @@ def print_employee_data(**kwargs):
 
 print_employee_data(id="1000")
 
-
-
-
-
 #create function
+
+#
+
+# object oriented
+#regular expression
+#functional programmig
+#python to database
+
+#exception handling
+
+#======================
+
+
+
+#front end
+#html
+#css
+#bootstrap
+#javascript
+
+
+#django
+#REST
