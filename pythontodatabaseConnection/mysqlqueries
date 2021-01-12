@@ -1,0 +1,37 @@
+sql>show databases;
+lists all databases
+
+sql>create database cms;
+
+sql>use cms;
+
+>show tables;
+
+>students(rol,name,course,age)
+>create table students(rol varchar(10),name varchar(10),course varchar(20),age int);
+>desc students;
+
+Keys>primary key,foriegn key
+
+>insert into students(rol,name,course,age)values('100','ajay','mca',25)
+
+
+>select * from students;
+
+>select name from students;
+
+
+>select name from students where course='mca'
+>100 rol
+>update ajays age as 26
+>update students set age=26 where rol='100';
+
+>delete from students where rol='104';
+>
+
+>BillingSystem
+
+>bill(slno,itemname,unitprice,qty,billno,cust_id,
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

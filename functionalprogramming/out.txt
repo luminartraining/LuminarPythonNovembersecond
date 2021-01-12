@@ -1,0 +1,127 @@
+#PythonDjango
+
+#Purpose?
+#web application development
+
+    #a program that runs over web
+
+
+#end
+#1)FrontEnd
+    a)HTML(displaying content on a screen)
+    b)css(for styling html pages(cascading stylesheet))
+    c)bootstrap(advanced styling)
+    d)javascript(intreactive)=>Angular,react(javascript librarry)
+    e)jquery,ajax
+
+
+2)BackEnd
+    1)datastore ->(databases)[mysql,sqllite]
+    2)dataprocessing->(python,)
+
+
+Django?framework
+
+framework?
+python=>django,flask,oodo etc
+java=>spring,hibernate etc
+php=>wordpress,larvel,joomla etc
+node=>express
+
+
+react=>javascript library
+javascript=>angularjs  ,angular(typescript)
+
+
+library
+
+framework
+django(python)
+
+
+
+Django
+======
+
+
+
+Python
+=====
+core
+
+advanced
+
+git and github
+
+
+database(mysql)
+python to mysql
+
+
+front Technologies
+html,css,bootstrap,javascript
+
+Django
+
+REST framework
+
+
+
+
+
+REST
+====
+
+
+Angular,React,android,
+
+
+REST
+
+
+Django
+
+
+
+pro
+
+
+
+function based view(mini project)
+
+class based view(main project)
+
+
+
+
+system requirements
+
+os->ubuntu(windows)
+ide->pycharm,vscode
+python->3.7 above
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+#dekstop application
+
